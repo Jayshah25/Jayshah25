@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Quantum Machine Learning for Finance!**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Quantum Computing, Machine Learning, Deep Learning!**
 
