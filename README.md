@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Quantum Computing, Machine Learning, Deep Learning!**
 
-- 📫 How to reach me **shahj097@gmail.com**
+- 📫 How to reach me **mlpython0@gmail.com**
 
 - ⚡ Fun fact **I am a published sci-fi writer!**
 
