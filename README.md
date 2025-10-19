@@ -1,33 +1,87 @@
-<h1 align="center">Hi 👋, I'm Jay Shah</h1>
-<h3 align="center">A Quantum Artificial Intelligence Developer from India!</h3>
+<h1 align="center">👋 Hi, I'm Jay Shah</h1>
+<h3 align="center">Quantum Machine Learning Researcher | Founder | Speaker | Educator</h3>
 
-- 🔭 I’m currently working on **Quantum Machine Learning for Finance!**
-
-- 🌱 I’m currently learning **Generative AI**
-
-- 💬 Ask me about **Quantum Computing, Machine Learning, Deep Learning!**
-
-- 📫 How to reach me **mlpython0@gmail.com**
-
-- ⚡ Fun fact **I am a published sci-fi writer!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jay-shah-qml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-shah-qml" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/blochsphere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="blochsphere" height="30" width="40" /></a>
+<p align="center">
+Building the quantum analogue of OpenAI's gym python framework!
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="center">
+<b>jay.shah@qrlqai.com</p></b>
+</p>
 
-<p align="left"> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
+---
 
-<h3 align="left">Quantum Tools:</h3>
+### 🔬 About Me
 
-<a href="https://qiskit.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ-5q-sm3skVUUkXufUO8dgL7c3BMU5aWvMyBRD-M3roB-nC7EzP5rZfBjUpJijnig2WI&usqp=CAU" alt="qiskit" width="140" height="80"/> </a> <a href="https://pennylane.ai/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/media/FYmCwpqWIAA_EUU.jpg:large" alt="pennylane" width="140" height="80"/> </a> 
+- 🧠 Currently working as **Quantum Machine Learning Researcher**  
+- 🏗️ **Founder of [QRL](https://www.youtube.com/c/BlochSphere)** — EdTech, Research and Development focused on Quantum AI
+- 🎙️ **Podcasts:** Host of *Quantum Podcast with Jay Shah*, featuring researchers, founders and recruiters in Quantum Computing.    
+- 🧩 **Recent Talks:** Speaker at Arizona State University (USA), IIT Jodhpur (India), NIT Agartala (India), K J Somaiya College of Engineering (India), GIET University (India), St. Joseph's Group of Institutions (India) and Pillai College of Engineering (India).  
+- ✍️ **Also:** A published **science fiction writer**
 
-<a href="https://quantumai.google/cirq" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/114306758/2566b800-6601-11e9-9f2d-36d3354da949" alt="cirq" width="80" height="40"/> </a>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/BlochSphere"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BlochSphere" /></a></p><br><br>
+### 🧭 Featured Projects
 
+- ⚛️ [**qrl-qai (by QRL)**](https://github.com/Jayshah25/Quantum-Reinforcement-Learning): The quantum analogue of OpenAI's gym python framework **(pip install qrl-qai)**  
+- 🪐 [**Quantum Glasses**](https://github.com/Jayshah25/Quantum-Glasses): Quantum software project showcased in Indian Quantum Community programs  
+- 🧠 [**Multi-Document Agentic RAG**](https://lightning.ai/blochsphere/studios/multi-document-agentic-rag-for-quantum-computing): Agentic RAG system for multi-document reasoning in Quantum Computing  
+---
+
+### 🧩 Tech Stack
+
+#### 💻 Programming
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></a>
+</p>
+
+#### 🧠 AI & ML
+<p align="left">
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"/></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40"/>
+</a>
+</p>
+
+#### ⚛️ Quantum Tools
+<p align="left">
+<a target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="qiskit" width="80"/>
+</a>
+<a target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/PennyLaneAI/pennylane/master/doc/_static/readme/pl-logo-lightmode.png#gh-light-mode-only" alt="PennyLane" width="200"/>
+</a>
+</p>
+
+
+
+#### 🌐 Web & Frameworks
+<p align="left">
+  <a target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/>
+  </a>
+  <a target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"/>
+  </a>
+<a target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" alt="fastapi" width="40"/>
+</a>
+</p>
+
+
+---
+
+### 🌍 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/jay-shah-qml" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-shah-qml" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/BlochSphere" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="blochsphere" height="30" width="40" /></a>
+<a href="https://github.com/Jayshah25" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" /></a>
+</p>
+
+---
+
+### ☕ Support My Work
+<p><a href="https://www.buymeacoffee.com/BlochSphere"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BlochSphere" /></a></p>
